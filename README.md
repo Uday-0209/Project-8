@@ -15,6 +15,7 @@ The picture of the cobot setup:
 ![cobot](https://github.com/user-attachments/assets/ad4a4902-ccfd-42e4-8a5c-8e772a730776)
 
 The point cloud data of the 3D model:
+
 ![contour](https://github.com/user-attachments/assets/cef72dcc-de78-41bc-a1fa-43aac07f14de)
 
 The Simulation of the cobot in RoboDk:
